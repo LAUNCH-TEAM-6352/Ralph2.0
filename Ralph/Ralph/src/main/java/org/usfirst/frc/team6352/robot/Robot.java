@@ -11,13 +11,12 @@ import org.usfirst.frc.team6352.robot.commands.DoAutonomousSimple;
 import org.usfirst.frc.team6352.robot.commands.DoAutonomousSwitch;
 import org.usfirst.frc.team6352.robot.subsystems.DriveTrain;
 import org.usfirst.frc.team6352.robot.subsystems.PowerCubeIntake;
-import org.usfirst.frc.team6352.robot.subsystems.PowerCubeLift;
 import org.usfirst.frc.team6352.robot.subsystems.PowerCubeLiftEncoder;
 import org.usfirst.frc.team6352.robot.subsystems.PowerCubeLiftPid;
 
 import edu.wpi.cscore.UsbCamera;
 import edu.wpi.cscore.UsbCameraInfo;
-import edu.wpi.first.wpilibj.CameraServer;
+import edu.wpi.first.cameraserver.CameraServer;
 import edu.wpi.first.wpilibj.DriverStation;
 import edu.wpi.first.wpilibj.GenericHID.Hand;
 import edu.wpi.first.wpilibj.RobotController;

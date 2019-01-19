@@ -1,17 +1,12 @@
 package org.usfirst.frc.team6352.robot.subsystems;
 
 import org.usfirst.frc.team6352.robot.RobotMap;
-import org.usfirst.frc.team6352.robot.commands.DriveWithGamepadController;
 
 import com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX;
 
-import edu.wpi.first.wpilibj.GenericHID.Hand;
-import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.Spark;
 import edu.wpi.first.wpilibj.SpeedController;
-import edu.wpi.first.wpilibj.XboxController;
 import edu.wpi.first.wpilibj.command.Subsystem;
-import edu.wpi.first.wpilibj.drive.DifferentialDrive;
 
 /**
  * The subsystem that sucks in and spits out the power cube.

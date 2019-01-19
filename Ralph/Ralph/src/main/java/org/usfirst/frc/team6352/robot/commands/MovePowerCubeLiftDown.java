@@ -4,7 +4,6 @@ import org.usfirst.frc.team6352.robot.Robot;
 import org.usfirst.frc.team6352.robot.RobotMap;
 
 import edu.wpi.first.wpilibj.GenericHID.Hand;
-import edu.wpi.first.wpilibj.GenericHID.RumbleType;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 

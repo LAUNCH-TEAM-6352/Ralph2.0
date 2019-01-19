@@ -1,11 +1,7 @@
 package org.usfirst.frc.team6352.robot.subsystems;
 
-import org.usfirst.frc.team6352.robot.OI;
 import org.usfirst.frc.team6352.robot.RobotMap;
 
-import com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX;
-
-import edu.wpi.first.wpilibj.NidecBrushless;
 import edu.wpi.first.wpilibj.Spark;
 import edu.wpi.first.wpilibj.SpeedController;
 import edu.wpi.first.wpilibj.command.Subsystem;

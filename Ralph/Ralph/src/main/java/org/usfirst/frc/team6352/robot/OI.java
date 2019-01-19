@@ -13,7 +13,6 @@ import org.usfirst.frc.team6352.robot.commands.MovePowerCubeLiftUp;
 import org.usfirst.frc.team6352.robot.commands.ResetLiftEncoder;
 import org.usfirst.frc.team6352.robot.commands.SuckInOrSpitOutPowerCube;
 
-import edu.wpi.first.wpilibj.GenericHID.RumbleType;
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.XboxController;
 import edu.wpi.first.wpilibj.buttons.Button;
